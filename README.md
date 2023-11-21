@@ -46,12 +46,15 @@
 
 ## ОТВЕТ:
 
-1. ![Скриншот-3](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_2.png)
-2. ![Скриншот-4](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_3.png)
-3. ![Скриншот-5](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_4.png)
-4. ![Скриншот-6](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_5.png)
-5. ![Скриншот-7](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_6.png)
-6. ![Скриншот-8](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_7.png)
+1. ![Скриншот-3](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_3.png)
+2. ![Скриншот-4](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_4.png)
+3. ![Скриншот-5](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_5.png)
+4. ![Скриншот-6](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_6.png)
+5. ![Скриншот-7](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_7.png)
+6. ![Скриншот-8](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_8.png)
+7. ![Скриншот-9](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_9.png)
+8. ![Скриншот-10](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_10.png)
+9. ![Скриншот-11](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_11.png)
 
 ---
 
