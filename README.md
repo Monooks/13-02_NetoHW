@@ -23,8 +23,17 @@
 2. Добавьте пользователя cryptouser.
 3. Зашифруйте домашний каталог пользователя с помощью eCryptfs.
 
-
 *В качестве ответа  пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.*  
+
+
+## ОТВЕТ:
+
+1. ![Скриншот-1](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_1.png)
+2. ![Скриншот-2](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_2.png)
+
+
+---
+
 
 ### Задание 2
 
@@ -34,6 +43,17 @@
 
 *В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.*
 
+
+## ОТВЕТ:
+
+1. ![Скриншот-1](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_1.png)
+2. ![Скриншот-2](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_2.png)
+3. ![Скриншот-3](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_3.png)
+4. ![Скриншот-4](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_4.png)
+5. ![Скриншот-5](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_5.png)
+6. ![Скриншот-6](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_6.png)
+
+---
 
 ## Дополнительные задания (со звёздочкой*)
 
@@ -47,5 +67,4 @@
 
 
 *В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.*
-
-
+end.
